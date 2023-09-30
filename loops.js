@@ -38,3 +38,11 @@ switch (today) {
         console.log("Free time")
         break;
 }
+
+
+
+
+do {
+    console.log("Noor")
+    count++;
+} while (count < 10);
